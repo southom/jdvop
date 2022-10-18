@@ -1,2 +1,5 @@
-# jdvop
-JDVOP
+## Installation
+
+```
+composer require southom/jdvop
+```
